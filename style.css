@@ -38,6 +38,7 @@
     position: relative;
     max-width: 22.444rem;
     width: 100%;
+    box-shadow: hsl(0, 2%, 83%);
   }
   
   .card-header {
@@ -110,3 +111,4 @@
   }
   .attribution a {
     color: hsl(244, 79%, 64%)
+  }
